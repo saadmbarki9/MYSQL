@@ -7,7 +7,7 @@
 •	pip install tkinter
 •	pip install MYSQLdb
 
-🙏I need your help🙏:
+🙏I need your help:
 Please enter your information just to know if there any problems in my code🙏
 
 I’m waiting for your feedback 😋
