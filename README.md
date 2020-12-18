@@ -1,6 +1,6 @@
 ⚠if you want to execute these programs you need to install these 2 libraries:
 1-	tkinter
-2-	MYSQLdb
+2-	MYSQLclient
 
 
 🙏I need your help:
